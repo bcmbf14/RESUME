@@ -5,8 +5,8 @@
 ## 단체경력
 ## 학력
 ## 오픈소스기여
-https://yagom.net/members/ygdnu-1583210486/forums/
-https://yagom.net/members/ygdnu-1583210486/forums/replies/
+- https://yagom.net/members/ygdnu-1583210486/forums/
+- https://yagom.net/members/ygdnu-1583210486/forums/replies/
 ## 사용 기술
 ### iOS
 ### Process
