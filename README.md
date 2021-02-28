@@ -1,44 +1,50 @@
-# 이력서 (RESUME)
+# 김종찬 
+      
+#### 항상 더 좋은 코드를 짜고 싶은 iOS개발자 입니다.
+- 이메일: bcmbf14@gmail.com 
+- 연락처: 010-4757-4397 
+- 주요개발스킬: Swift, UIKit, Auto/Adaptive Layout, MVC, Custom View, RESTful API, Storyboard/Xib/Code- based UI, DataBinding
+- 관심을두고있고,주로공부하고있는스킬: RxSwift, RxCocoa, MVVM, TDD, SwiftLint
+- 업무 도구 : Github, Jira, Zeplin, Postman, Sourcetree, Slack, Notion 깃헙 링크 : https://github.com/bcmbf14
+# 
+# 
+#### 경력사항 
 
+(주)더휴먼플러스 개발팀 / iOS개발자
+● 셔플 2020.2 - 2020.7
+2020.2 - 2020.7
+ 소개:
+암호화폐를 기반으로 쉽고 안전한 디지털 자산 통합 지갑 서비스를 제공.
+QR 결제코드와 바코드로 상점에서 포인트 결제 지원.
+주요디지털자산지갑제공. 각포인트및디지털자산별거래내역을한눈에파악할수있는통합거래내역제공.
+보유 포인트와 디지털 자산의 통합 자산현황 조회.
+역할 : iOS 어플리케이션 100%를 개발, 앱스토어 1.0.0 버전 출시.
+관련기술 : Swift, RxSwift, MVC, MVVM, AutoLayout
+라이브러리 : RxSwift, RxCocoa, SnapKit, SwiftyJSON, Then, Alamofire, Kingfisher, FSPagerView
+링크 : https://apps.apple.com/kr/app/id1509428401
 
-장점 
-1. 자발적 동기 부여      
-비전공자고 늦게시작한것을 알기떄문에. 
-스터디를 하면서 주변사람들과 자주 비교. 
-나는 나만의 길을 간다. 
+디엠에듀(DMEduCo.Ltd.) 개발팀 / iOS개발자
+2018.10 - 2020.2
+● 세종학당 세종한국어 중급1, 2 2018.10 - 2019.2
+소개 : 준정부기관 세종학당재단에서 외주를 받아 외국인 학습자가 한국어를 쉽게 배울 수 있도
+록 하는 '세종한국어' 앱을 개발.
+역할 : iOS 어플리케이션 대부분(85%)을 개발, 유지보수.
+관련기술 : Swift, MVC, AutoLayout, STT(SpeechToText), Codable, AVFoundation 라이브러리 : Alamofire, Kingfisher, Charts
+링크 : https://apps.apple.com/kr/app/id1458674637
+● 퀴즈비 2019.12 - 2020.2
+소개:유투브동영상이나일반동영상에퀴즈를제작하여더편하게영어를학습하도록하기위 한교육용플랫폼앱.
+역할 : iOS 어플리케이션 55%담당, 신규기능개발, 유지보수.
+관련기술 : Swift, MVC, AutoLayout, Codable, AVFoundation
+라이브러리 : Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 링크 : https://www.quizvie.com/
 
+동서울신용협동조합 여신(대출)팀 / 사원
+● 창구 수납 및 여신업무 2016.2 - 2018.2
+2016.2 - 2018.2
+은행원으로재직하여창구수납및신용대출,부동산담보대출,중도금대출,건축대출등의업 무를 수 행.
+금융권 관련 도메인 지식 보유.
 
-2. 천직     
-이렇게저렇게하다보니 그런생각이들때도있었다. 
-은행원, 영업사원, 조선소, 카페, 레스토랑... 1,2년 하다가 이직하는 경우도 있고 아예 업종을 바꾸기도 할거다.
-근데 어느날부터 그런생각이 들었다. 내 인생에서 이뤄낸 성공. 내 의지대로 내가 하고싶었고 염원했던 일. 
-그리고 일정 수준에 도달하기위해 수없이 좌절하고 비교당하고 했던 일들. 
-그래서 어느순간 내인생에서 프로그래밍을빼고나면 나라는 사람의 정체성의 근간이 흔들린다고 해야하나.
-언어를 바꾸거나 백엔드 프론트엔드로 바꿀지언정. 여기서 아예 다른 직업을 갖진 않을 것 같다. 무조건 강하게 연관된 직업을 할거다. 
-
-
-## 소개
-## 회사경력
-## 단체경력
 ## 학력
-## 오픈소스기여
+## 기타 
+## 개인프로젝트 & 링크
+- https://github.com/bcmbf14
 
-___야곰닷넷___
-  - https://yagom.net/members/ygdnu-1583210486/forums/
-  - https://yagom.net/members/ygdnu-1583210486/forums/replies/
-  
-___맥부기___
-  - https://cafe.naver.com/mcbugi/350633
-  - https://cafe.naver.com/mcbugi/350654
-  
-___아이폰데브___
-  - 123
-  - 123
-  
-  
-## 사용 기술
-### iOS
-### Process
-### TODO
-## 프로젝트 이력
-## 개인 프로젝트 
