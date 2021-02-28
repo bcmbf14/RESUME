@@ -35,13 +35,14 @@
 - 링크 : https://apps.apple.com/kr/app/id1458674637        
                
 #### 퀴즈비 2019.12 - 2020.02                        
-![image](https://user-images.githubusercontent.com/60660894/109422439-d967d400-7a1e-11eb-98d8-fb7d1c95a730.png)
+![image](https://user-images.githubusercontent.com/60660894/109422695-fc46b800-7a1f-11eb-9a22-7da0df928fae.png)
 - 소개 : 유투브 동영상이나 일반 동영상에 퀴즈를 제작하여 더 편하게 영어를 학습하도록 하기위한 교육용 플랫폼 앱.
 - 역할 : iOS 어플리케이션 55%담당, 신규기능개발, 유지보수.
 - 관련기술 : Swift, MVC, AutoLayout, Codable, AVFoundation
 - 라이브러리 : Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 
-- 링크 : https://www.quizvie.com/                 
-![image](https://user-images.githubusercontent.com/60660894/109422517-36638a00-7a1f-11eb-88d4-d06dcfcb7be9.png)
+- 링크 : https://www.quizvie.com/      
+                        
+![image](https://user-images.githubusercontent.com/60660894/109422735-39ab4580-7a20-11eb-9e47-ab257a5be4cb.png)
 ### 동서울신용협동조합 여신(대출)팀 / 사원
 #### 창구 수납 및 여신업무 2016.02 - 2018.02
 - 은행원으로 재직하여 창구수납 및 신용 대출,부동산 담보대출,중도금 대출, 건축 대출 등의 업무를 수행.
