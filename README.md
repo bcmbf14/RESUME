@@ -17,6 +17,7 @@
 ![image](https://user-images.githubusercontent.com/34432988/109422247-18495a00-7a1e-11eb-835c-67eb11a79ab9.png)
 #### 셔플 2020.02 - 2020.07
 - 소개 : 암호화폐를 기반으로 쉽고 안전한 디지털 자산 통합 지갑 서비스를 제공. QR 결제코드와 바코드로 상점에서 포인트 결제 지원. 주요 디지털 자산 지갑 제공. 각 포인트 및 디지털 자산별 거래 내역을 한눈에 파악할 수 있는 통합 거래내역 제공. 보유 포인트와 디지털 자산의 통합 자산현황 조회.
+- 분야 : 핀테크
 - 역할 : iOS 어플리케이션 100%를 개발, 앱스토어 1.0.0 버전 출시.
 - 관련기술 : Swift, RxSwift, MVC, MVVM, AutoLayout
 - 라이브러리 : RxSwift, RxCocoa, SnapKit, SwiftyJSON, Then, Alamofire, Kingfisher, FSPagerView
@@ -26,12 +27,15 @@
 ![image](https://user-images.githubusercontent.com/60660894/109422407-bfc68c80-7a1e-11eb-9f22-2f44c6a136b3.png)
 #### 세종학당 세종한국어 중급과정 2018.10 - 2019.02
 - 소개 : 준 정부기관 세종학당 재단에서 외주를 받아 외국인 학습자가 한국어를 쉽게 배울 수 있도록 하는 '세종한국어' 앱을 개발.
+- 분야 : 한국어 교육 
 - 역할 : iOS 어플리케이션 대부분(85%)을 개발, 유지보수.
-- 관련기술 : Swift, MVC, AutoLayout, STT(SpeechToText), Codable, AVFoundation 라이브러리 : Alamofire, Kingfisher, Charts
+- 관련기술 : Swift, MVC, AutoLayout, STT(SpeechToText), Codable, AVFoundation, Localizing(한,중,스페인어) 
+- 라이브러리 : Alamofire, Kingfisher, Charts
 - 링크 : https://apps.apple.com/kr/app/id1458674637        
 #### 퀴즈비 2019.12 - 2020.02                        
 ![image](https://user-images.githubusercontent.com/60660894/109422695-fc46b800-7a1f-11eb-9a22-7da0df928fae.png)
 - 소개 : 유투브 동영상이나 일반 동영상에 퀴즈를 제작하여 더 편하게 영어를 학습하도록 하기위한 교육용 플랫폼 앱.
+- 분야 : 영어 교육 
 - 역할 : iOS 어플리케이션 55%담당, 신규기능개발, 유지보수.
 - 관련기술 : Swift, MVC, AutoLayout, Codable, AVFoundation
 - 라이브러리 : Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 
