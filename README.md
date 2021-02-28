@@ -24,7 +24,7 @@
 ### 디엠에듀(DMEduCo.Ltd.) 개발팀 / iOS개발자
 ![image](https://user-images.githubusercontent.com/60660894/109422407-bfc68c80-7a1e-11eb-9f22-2f44c6a136b3.png)
 #### 세종학당 세종한국어 중급과정 2018.10 - 2019.02
-- 소개 : 준정부기관 세종학당재단에서 외주를 받아 외국인 학습자가 한국어를 쉽게 배울 수 있도록 하는 '세종한국어' 앱을 개발.
+- 소개 : 준 정부기관 세종학당 재단에서 외주를 받아 외국인 학습자가 한국어를 쉽게 배울 수 있도록 하는 '세종한국어' 앱을 개발.
 - 역할 : iOS 어플리케이션 대부분(85%)을 개발, 유지보수.
 - 관련기술 : Swift, MVC, AutoLayout, STT(SpeechToText), Codable, AVFoundation 라이브러리 : Alamofire, Kingfisher, Charts
 - 링크 : https://apps.apple.com/kr/app/id1458674637        
@@ -36,8 +36,8 @@
 - 라이브러리 : Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 
 - 링크 : https://www.quizvie.com/      
                               
-![image](https://user-images.githubusercontent.com/60660894/109422788-68c1b700-7a20-11eb-9033-3e56278f961b.png)
 ### 동서울신용협동조합 여신(대출)팀 / 사원
+![image](https://user-images.githubusercontent.com/60660894/109422788-68c1b700-7a20-11eb-9033-3e56278f961b.png)
 #### 창구 수납 및 여신업무 2016.02 - 2018.02
 - 은행원으로 재직하여 창구수납 및 신용 대출,부동산 담보대출,중도금 대출, 건축 대출 등의 업무를 수행.
 - 금융권 관련 도메인 지식 보유.
@@ -48,8 +48,8 @@
                         
             
 ## 기타 
-#### 패스트캠퍼스 컴퓨터 공학 입문과정 수료 2018.03 - 2018.04
-#### 패스트캠퍼스 iOS 개발과정 수료 2018.05 - 2018.09 
+- 패스트캠퍼스 컴퓨터 공학 입문과정 수료 2018.03 - 2018.04
+- 패스트캠퍼스 iOS 개발과정 수료 2018.05 - 2018.09 
                                   
                                     
 ## 개인프로젝트 & 링크
