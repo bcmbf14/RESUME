@@ -1,6 +1,7 @@
 # 김종찬 
 > 항상 더 좋은 코드를 짜고 싶은 iOS개발자 입니다.
-![profileImage](https://user-images.githubusercontent.com/60660894/109422653-ce617380-7a1f-11eb-8050-69359b702949.png)
+                                                
+![Mar-01-2021 00-01-09](https://user-images.githubusercontent.com/60660894/109423030-585e0c00-7a21-11eb-95ac-46ea1e6eaec0.gif)
             
 - 이메일: bcmbf14@gmail.com 
 - 연락처: 010-4757-4397 
