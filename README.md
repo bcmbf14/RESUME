@@ -1,5 +1,5 @@
 # 김종찬 
-            
+![profileImage](https://user-images.githubusercontent.com/60660894/109422653-ce617380-7a1f-11eb-8050-69359b702949.png)
 > 항상 더 좋은 코드를 짜고 싶은 iOS개발자 입니다.
             
 - 이메일: bcmbf14@gmail.com 
@@ -7,12 +7,10 @@
 - 주요개발스킬: Swift, UIKit, Auto/Adaptive Layout, MVC, Custom View, RESTful API, Storyboard/Xib/Code- based UI, DataBinding
 - 관심을두고있고,주로공부하고있는스킬: RxSwift, RxCocoa, MVVM, TDD, SwiftLint
 - 업무 도구 : Github, Jira, Zeplin, Postman, Sourcetree, Slack, Notion 
-- 깃헙 링크 : https://github.com/bcmbf14
-            
-# 
-            
+- Github Link : https://github.com/bcmbf14
+       
+                                
 ## 경력사항 
-
 
 ### (주)더휴먼플러스 개발팀 / iOS개발자
 ![image](https://user-images.githubusercontent.com/34432988/109422247-18495a00-7a1e-11eb-835c-67eb11a79ab9.png)
@@ -37,30 +35,28 @@
 - 링크 : https://apps.apple.com/kr/app/id1458674637        
                
 #### 퀴즈비 2019.12 - 2020.02                        
-![image](https://user-images.githubusercontent.com/60660894/109422439-d967d400-7a1e-11eb-98d8-fb7d1c95a730.png)#### 퀴즈비 2019.12 - 2020.02
+![image](https://user-images.githubusercontent.com/60660894/109422439-d967d400-7a1e-11eb-98d8-fb7d1c95a730.png)
 - 소개 : 유투브 동영상이나 일반 동영상에 퀴즈를 제작하여 더 편하게 영어를 학습하도록 하기위한 교육용 플랫폼 앱.
 - 역할 : iOS 어플리케이션 55%담당, 신규기능개발, 유지보수.
 - 관련기술 : Swift, MVC, AutoLayout, Codable, AVFoundation
-- 라이브러리 : Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 링크 : https://www.quizvie.com/
+- 라이브러리 : Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 
+- 링크 : https://www.quizvie.com/                 
 ![image](https://user-images.githubusercontent.com/60660894/109422517-36638a00-7a1f-11eb-88d4-d06dcfcb7be9.png)
 ### 동서울신용협동조합 여신(대출)팀 / 사원
 #### 창구 수납 및 여신업무 2016.02 - 2018.02
 - 은행원으로 재직하여 창구수납 및 신용 대출,부동산 담보대출,중도금 대출, 건축 대출 등의 업무를 수행.
 - 금융권 관련 도메인 지식 보유.
             
-# 
             
 ## 학력
-- 배재대학교 호텔경영학/건축학 부전공, 2008.02 - 2016.08
-            
-# 
+- 배재대학교 호텔경영학/건축학 부전공, 2008.02 - 2016.08       
+                        
             
 ## 기타 
 #### 패스트캠퍼스 컴퓨터 공학 입문과정 수료 2018.03 - 2018.04
 #### 패스트캠퍼스 iOS 개발과정 수료 2018.05 - 2018.09 
-            
-# 
-            
+                                  
+                                    
 ## 개인프로젝트 & 링크
 - https://github.com/bcmbf14
 
