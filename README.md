@@ -1,6 +1,6 @@
 # 김종찬 
-![profileImage](https://user-images.githubusercontent.com/60660894/109422653-ce617380-7a1f-11eb-8050-69359b702949.png)
 > 항상 더 좋은 코드를 짜고 싶은 iOS개발자 입니다.
+![profileImage](https://user-images.githubusercontent.com/60660894/109422653-ce617380-7a1f-11eb-8050-69359b702949.png)
             
 - 이메일: bcmbf14@gmail.com 
 - 연락처: 010-4757-4397 
@@ -33,7 +33,6 @@
 - 역할 : iOS 어플리케이션 대부분(85%)을 개발, 유지보수.
 - 관련기술 : Swift, MVC, AutoLayout, STT(SpeechToText), Codable, AVFoundation 라이브러리 : Alamofire, Kingfisher, Charts
 - 링크 : https://apps.apple.com/kr/app/id1458674637        
-               
 #### 퀴즈비 2019.12 - 2020.02                        
 ![image](https://user-images.githubusercontent.com/60660894/109422695-fc46b800-7a1f-11eb-9a22-7da0df928fae.png)
 - 소개 : 유투브 동영상이나 일반 동영상에 퀴즈를 제작하여 더 편하게 영어를 학습하도록 하기위한 교육용 플랫폼 앱.
@@ -41,8 +40,8 @@
 - 관련기술 : Swift, MVC, AutoLayout, Codable, AVFoundation
 - 라이브러리 : Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 
 - 링크 : https://www.quizvie.com/      
-                        
-![image](https://user-images.githubusercontent.com/60660894/109422735-39ab4580-7a20-11eb-9e47-ab257a5be4cb.png)
+                              
+![image](https://user-images.githubusercontent.com/60660894/109422788-68c1b700-7a20-11eb-9033-3e56278f961b.png)
 ### 동서울신용협동조합 여신(대출)팀 / 사원
 #### 창구 수납 및 여신업무 2016.02 - 2018.02
 - 은행원으로 재직하여 창구수납 및 신용 대출,부동산 담보대출,중도금 대출, 건축 대출 등의 업무를 수행.
