@@ -4,8 +4,8 @@
             
 - 이메일: bcmbf14@gmail.com 
 - 연락처: 010-4757-4397 
-- 주요개발스킬: Swift, UIKit, Auto/Adaptive Layout, MVC, Custom View, RESTful API, Storyboard/Xib/Code- based UI, DataBinding
-- 관심을두고있고,주로공부하고있는스킬: RxSwift, RxCocoa, MVVM, TDD, SwiftLint
+- 주요 개발 스킬: Swift, UIKit, Auto/Adaptive Layout, MVC, Custom View, RESTful API, Storyboard/Xib/Code- based UI, DataBinding
+- 관심을 두고 있고,주로 공부하고 있는 스킬: RxSwift, RxCocoa, MVVM, TDD, SwiftLint
 - 업무 도구 : Github, Jira, Zeplin, Postman, Sourcetree, Slack, Notion 
 - Github Link : https://github.com/bcmbf14
        
@@ -15,12 +15,7 @@
 ### (주)더휴먼플러스 개발팀 / iOS개발자
 ![image](https://user-images.githubusercontent.com/34432988/109422247-18495a00-7a1e-11eb-835c-67eb11a79ab9.png)
 #### 셔플 2020.02 - 2020.07
-- 소개: 
-      - 암호화폐를 기반으로 쉽고 안전한 디지털 자산 통합 지갑 서비스를 제공.
-      - QR 결제코드와 바코드로 상점에서 포인트 결제 지원.
-      - 주요디지털자산지갑제공. 
-      - 각포인트및디지털자산별거래내역을한눈에파악할수있는통합거래내역제공.
-      - 보유 포인트와 디지털 자산의 통합 자산현황 조회.
+- 소개 : 암호화폐를 기반으로 쉽고 안전한 디지털 자산 통합 지갑 서비스를 제공. QR 결제코드와 바코드로 상점에서 포인트 결제 지원. 주요 디지털 자산 지갑 제공. 각 포인트 및 디지털 자산별 거래 내역을 한눈에 파악할 수 있는 통합 거래내역 제공. 보유 포인트와 디지털 자산의 통합 자산현황 조회.
 - 역할 : iOS 어플리케이션 100%를 개발, 앱스토어 1.0.0 버전 출시.
 - 관련기술 : Swift, RxSwift, MVC, MVVM, AutoLayout
 - 라이브러리 : RxSwift, RxCocoa, SnapKit, SwiftyJSON, Then, Alamofire, Kingfisher, FSPagerView
