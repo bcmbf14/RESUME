@@ -10,9 +10,9 @@
 - 업무 도구 : Github, Jira, Zeplin, Postman, Sourcetree, Slack, Notion 
 - Github Link : https://github.com/bcmbf14
 
-## 오프라인모임
-- 매주 목요일 현업에 있는 지인들과 [iOS스터디](https://github.com/iO3S) 진행(2019.07 ~).
-- RxSwift, Algorithm, TDD, SwiftUI 등을 주제로 스터디.
+## 오프라인 스터디(iO3S)
+- 매주 목요일 현업에 있는 지인들과 [iOS스터디](https://github.com/iO3S) 진행(2019.07 ~ 현재)
+- RxSwift, Algorithm, TDD, SwiftUI 등을 주제로 스터디
        
                                 
 ## 경력사항 
