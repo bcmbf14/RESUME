@@ -17,6 +17,25 @@
                                 
 ## 경력사항 
 
+
+### (주)넛지헬스케어 개발팀 / iOS개발자
+![image](https://user-images.githubusercontent.com/34432988/109422247-18495a00-7a1e-11eb-835c-67eb11a79ab9.png)
+#### 캐시워크 - 마음챙김 서비스 2021.04 - 2021.10
+- 소개 : DAU 300만명을 기록중인 국내 건강 카테고리 앱 캐시워크에서 명상/마음케어를 위한 마음챙김 서비스를 추가함.
+- 분야 : 건강/명상
+- 역할 : iOS 마음챙김 서비스 100%를 개발
+- 관련기술 : Swift, RxSwift, MVVM, AutoLayout, AVFoundation
+- 라이브러리 : RxSwift, RxCocoa, Moya, FSCalendar, Toast-Swift, RealmSwift
+- 링크 : https://apps.apple.com/kr/app/id1220307907
+
+#### 지니어트 - 2021.10 ~ 현재 
+- 소개 : 습관으로 달라지는 똑똑한 다이어트를 지향하는 다이어트 앱
+- 분야 : 건강/다이어트
+- 역할 : iOS 유지보수, 버그수정, 신규기능 개발 
+- 관련기술 : Swift, RxSwift, MVVM, AutoLayout, AVFoundation
+- 라이브러리 : RxSwift, RxCocoa, Moya, FSCalendar, SnapKit, ReactorKit, SwiftEntryKit, lottie-ios
+- 링크 : https://apps.apple.com/kr/app/id1535606430
+
 ### (주)더휴먼플러스 개발팀 / iOS개발자
 ![image](https://user-images.githubusercontent.com/34432988/109422247-18495a00-7a1e-11eb-835c-67eb11a79ab9.png)
 #### 셔플 2020.02 - 2020.07
